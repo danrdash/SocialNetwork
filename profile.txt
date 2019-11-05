@@ -1,0 +1,28 @@
+Username_Biff Tannen
+Status_Hi! I'm using socioPath!
+Friends_
+Pending_thiery henry
+Username_Lorraine Baines
+Status_Hi! I'm using socioPath!
+Friends_Emmet Brown_$_Clark Gable
+Pending_thiery henry
+Username_Einstein Dog
+Status_Hi! I'm dan ram lol
+Friends_Marty McFly
+Pending_thiery henry_$_Marty McFly
+Username_Marty McFly
+Status_Driving the DeLorean at 88mph.
+Friends_Emmet Brown_$_Einstein Dog
+Pending_Lorraine Baines
+Username_Emmet Brown
+Status_Hi! I'm using socioPath!
+Friends_Marty McFly_$_Lorraine Baines
+Pending_thiery henry
+Username_Clark Gable
+Status_Hi! I'm using socioPath!
+Friends_Lorraine Baines
+Pending_thiery henry
+Username_yuval kuper
+Status_blahhhh
+Friends_
+Pending_
