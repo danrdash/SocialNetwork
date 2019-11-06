@@ -14,7 +14,7 @@ important: validation.txt and profile.txt must be in the same folder, review the
 
 
 ## IDE
-Written and compiled in Visual Studio 2017
+VS 2017
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
