@@ -9,6 +9,7 @@ Implementing server side of a local social network "SocioPath". some features ar
 2. download all project files into the same folder, insert the following command: cd /...your_file_path.../
 3. insert the following command: gcc *.c -o Server
 4. insert the following command: Server
+
 important: validation.txt and profile.txt must be in the same folder, review them to see relevant format for each text file. 
 
 
